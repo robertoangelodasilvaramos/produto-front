@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/robertoangelodasilvaramos/produto-front.svg?branch=master)](https://travis-ci.org/robertoangelodasilvaramos/produto-front)
+
 # produtos-front
 
 ## Project setup
