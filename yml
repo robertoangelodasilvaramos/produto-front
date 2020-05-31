@@ -1,0 +1,3 @@
+app_location: 'vue-app' # App source code path
+api_location: 'api' # Api source code path - optional
+app_artifact_location: 'dist' # Built app content directory - optional
